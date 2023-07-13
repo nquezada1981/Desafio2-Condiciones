@@ -1,0 +1,23 @@
+body {
+    background-color: #729E2E;
+
+}
+
+img {
+    width: 50%;
+    align-items: center;
+    justify-content: center;
+}
+
+.card {
+    align-items: center;
+    justify-content: center;
+    background-color: #729E2E;
+    width: 20rem;
+    padding: 1rem;
+}
+
+h3 {
+    align-items: center;
+    justify-content: center;
+}
